@@ -1,0 +1,1 @@
+# Deep-Learning-Based-Satellite-Image-Segmentation-for-Land-Cover-Classification
